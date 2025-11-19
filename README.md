@@ -13,8 +13,7 @@
 ## Flowchart Visualization
 
     Here is our flowchart!
-    ![Flowchart]
-     (Custom-Printf/images/flowchart.png)
+    ![Flowchart](Custom-Printf/images/flowchart.png)
 
 ## How It's Made:
     **Tech used:** C, Makefile, and Visual Studio Code
